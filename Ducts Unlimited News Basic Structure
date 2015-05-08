@@ -1,95 +1,39 @@
-<html><!-- #BeginTemplate "/Templates/template.dwt" --><!-- DW6 -->
+<html>
 <head>
-<!-- #BeginEditable "doctitle" -->
+
 <title>Ducts Unlimited - News</title>
-<!-- #EndEditable -->
+
 <meta http-equiv="Content-Type" content="text/html;">
-<!-- Fireworks 4.0  Dreamweaver 4.0 target.  Created Sat Apr 20 18:36:18 GMT+0530 (India Standard Time) 2002-->
-<script language="JavaScript">
-<!--
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
 
-function MM_preloadImages() { //v3.0
- var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
 
-function fwLoadMenus() {
-  if (window.fw_menu_0) return;
-  window.fw_menu_0 = new Menu("root",72,16,"Verdana, Arial, Helvetica, sans-serif",9,"#ffffff","#e0e0c2","#336699","#003366");
-//  fw_menu_0.addMenuItem("Service 1  ");
-//  fw_menu_0.addMenuItem("Service 2");
-//  fw_menu_0.addMenuItem("Service 3");
-//  fw_menu_0.addMenuItem("Service 4");
-   fw_menu_0.fontWeight="bold";
-   fw_menu_0.hideOnMouseOut=true;
-  window.fw_menu_1 = new Menu("root",78,16,"Verdana, Arial, Helvetica, sans-serif",9,"#e0e0cf","#ffffff","#003366","#336699");
-//  fw_menu_1.addMenuItem("Product 1   ");
-//  fw_menu_1.addMenuItem("Product 2");
-//  fw_menu_1.addMenuItem("Product 3");
-//  fw_menu_1.addMenuItem("Product 4");
-   fw_menu_1.fontWeight="bold";
-   fw_menu_1.hideOnMouseOut=true;
 
-  fw_menu_1.writeMenus();
-} // fwLoadMenus()
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-//-->
-</script>
-<script language="JavaScript1.2" src="fw_menu.js"></script>
-<link rel="stylesheet" href="styles.css" type="text/css">
-<style type="text/css">
-<!--
-.style2 {font-size: 12px}
-.style4 {color: 99966}
-.style7 {
-	color: #999966;
-	font-size: 12px;
-}
--->
-</style>
 </head>
-<body bgcolor="#ffffff" onLoad="MM_preloadImages('images/portfolio_f2.gif','images/contact_us_f2.gif','images/services_f2.gif','images/swap_img.gif','images/home_f2.gif','images/swap_img_f2.gif','images/about_us_f2.gif','images/swap_img_f3.gif','images/swap_img_f4.gif','images/swap_img_f5.gif','images/client_quotes_f2.gif','images/swap_img_f6.gif','images/in_the_news_f2.gif','images/products_f2.gif','images/faqs_f2.gif','images/News_f2.gif')" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<script language="JavaScript1.2">fwLoadMenus();</script>
-<table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
+<body> 
+<table>
   <tr> 
-    <td height="87"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0" height="137">
+    <td> 
+      <table>
         <tr> 
-          <td rowspan="3" width="163" height="137"><img name="swap_img" src="images/swap_img.gif" width="163" height="137" border="0"></td>
-          <td align="right"> 
-            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <td></td>
+          <td> 
+            <table>
               <tr> 
-                <td background="images/fill_top.gif" height="70" width="99%"><img name="company_name" src="images/company_name2.gif" width="509" height="70" border="0"></td>
-                <td align="right" width="72" background="images/fill_top.gif"><img name="logo" src="images/logo.gif" width="72" height="70" border="0"></td>
+                <td></td>
+                <td>></td>
               </tr>
             </table>
           </td>
         </tr>
         <tr> 
-          <td background="images/fill_top_menu.gif" class="greysmall" height="21"><img name="layout4_r2_c6" src="images/fill_top_menu.gif" width="11" height="21" border="0"><a href="index.htm" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('swap_img','','images/swap_img.gif','home1','','images/home_f2.gif',1)" ><img name="home1" src="images/home.gif" width="63" height="21" border="0"></a><a href="aboutus.htm" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('swap_img','','images/swap_img_f2.gif','about_us1','','images/about_us_f2.gif',1)" ><img name="about_us1" src="images/about_us.gif" width="91" height="21" border="0"></a><a href="services.htm" onMouseOut="MM_swapImgRestore();FW_startTimeout()"  onMouseOver="window.FW_showMenu(window.fw_menu_0,338,95);MM_swapImage('swap_img','','images/swap_img_f3.gif','services1','','images/services_f2.gif',1)" ><img name="services1" src="images/services.gif" width="89" height="21" border="0"></a><a href="fabrication.htm" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('swap_img','','images/swap_img_f4.gif','portfolio1','','images/portfolio_f2.gif',1)" ><img name="portfolio1" src="images/portfolio.gif" width="94" height="21" border="0"></a><a href="clients.htm" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('swap_img','','images/swap_img_f5.gif','client_quotes','','images/client_quotes_f2.gif',1)" ><img name="client_quotes" src="images/client_quotes.gif" width="121" height="21" border="0"></a><a href="news.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('News','','images/News_f2.gif',1)"><img src="images/News.gif" name="News" width="63" height="21" border="0"></a><a href="contactus.htm" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('swap_img','','images/swap_img_f6.gif','contact_us1','','images/contact_us_f2.gif',1)" ><img name="contact_us1" src="images/contact_us.gif" width="105" height="21" border="0"></a></td>
+          <td></td>
         </tr>
         <tr> 
-          <td align="right" height="46" background="images/fill_cont_top.gif"> 
-            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <td> 
+            <table>
               <tr> 
-                <td align="right" class="goldsmall" height="46" width="99%">you 
-                  are here &gt; <!-- #BeginEditable "YouAreHere" -->{YouAreHere}<!-- #EndEditable --></td>
-                <td width="39"><img name="top_corner_right" src="images/top_corner_right.gif" width="39" height="46" border="0" align="absmiddle"></td>
+                <td>you 
+                  are here &gt; {YouAreHere}</td>
+                <td></td>
               </tr>
             </table>
           </td>
@@ -98,40 +42,40 @@ function MM_findObj(n, d) { //v4.01
     </td>
   </tr>
   <tr> 
-    <td valign="top"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
+    <td> 
+      <table>
         <tr> 
-          <td width="150" height="280" valign="top" background="images/fill_left.gif"> 
-            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <td> 
+            <table>
               <tr> 
-                <td height="35"><img name="menu_left_a" src="images/menu_left.gif" width="14" height="35" border="0"></td>
+                <td></td>
               </tr>
               <tr> 
-<!--                <td width="142"><a href="#" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('in_the_news','','../images/in_the_news_f2.gif',1)" ><img name="in_the_news" src="../images/in_the_news.gif" width="125" height="24" border="0"></a></td>-->
+
               </tr>
               <tr> 
-                <td><div align="left"></div></td>
+                <td><div></div></td>
               </tr>
               <tr> 
-                <td height="6"><img src="images/spacer.gif" width="1" height="1"></td>
+                <td></td>
               </tr>
               <tr> 
-<!--                <td><a href="#" onMouseOut="MM_swapImgRestore();FW_startTimeout()"  onMouseOver="window.FW_showMenu(window.fw_menu_1,125,229);MM_swapImage('products1','','../images/products_f2.gif',1)" ><img name="products1" src="../images/products.gif" width="125" height="21" border="0"></a></td>-->
+
               </tr>
               <tr> 
-                <td height="6"><img src="images/spacer.gif" width="1" height="1"></td>
+                <td></td>
               </tr>
               <tr> 
-<!--                <td><a href="#" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('faqs1','','../images/faqs_f2.gif',1)" ><img name="faqs1" src="../images/faqs.gif" width="125" height="21" border="0"></a></td>-->
+
               </tr>
               <tr> 
-                <td height="6"><img src="images/spacer.gif" width="1" height="1"></td>
+                <td></td>
               </tr>
               <tr> 
                 <td>&nbsp;</td>
               </tr>
               <tr> 
-                <td height="6"><img src="images/spacer.gif" width="1" height="1"></td>
+                <td></td>
               </tr>
               <tr> 
                 <td>&nbsp;</td>
@@ -139,15 +83,15 @@ function MM_findObj(n, d) { //v4.01
             </table>
             <br>
           </td>
-          <td valign="top" class="text"> <!-- #BeginEditable "content" -->
-            <table width="100%"  border="0">
+          <td> 
+            <table>
               <tr> 
-                <td height="134" class="MedLgText"><p>News and Events </p>
+                <td><p>News and Events </p>
                 <p>&nbsp;</p></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
-                <td height="50" valign="middle"><strong>Arvada, CO - January 2010</strong> - For the sixth 
+                <td><strong>Arvada, CO - January 2010</strong> - For the sixth 
                   year in a row, Ducts Unlimited Mechanical Systems, Inc. received 
                   the prestigious Metal of Honor award from Hercules Industries. 
                   Rob Leishman, president, attributes the continued growth in 
@@ -157,7 +101,7 @@ function MM_findObj(n, d) { //v4.01
                 <td>&nbsp;</td>
               </tr>
               <tr>
-                <td height="50" valign="middle"><hr align="center" width="75%"></td>
+                <td><hr></td>
                 <td>&nbsp;</td>
               </tr>
               <tr>
@@ -214,8 +158,8 @@ function MM_findObj(n, d) { //v4.01
                   the Top Companies in Denver-Aurora, CO by Inc. Magazine. This 
                   year, however, Ducts Unlimited, gained momentum and moved its 
                   ranking to No. 1914 nationally. See the complete article at 
-                  the <a href="http://www.inc.com/inc5000/2008/company-profile.html?id=200819140" title="Ducts Unlimited Inc Ranking by Inc. Magazine">Inc. 
-                  Magazine web site</a>. </td>
+                  the Inc. 
+                  Magazine web site. </td>
                 <td>&nbsp;</td>
               </tr>
               <tr> 
@@ -239,8 +183,8 @@ function MM_findObj(n, d) { //v4.01
               <tr> 
                 <td><p><strong>Arvada, CO - September 8, 2007</strong> - Ducts 
                     Unlimited Mechanical Systems Inc. has been ranked No. 39 in 
-                    the <a href="http://www.inc.com/inc5000/2007/company-profile.html?id=200716900">Top 
-                    Companies in Denver-Aurora, CO</a> and No. 1690 nationally 
+                    the Top 
+                    Companies in Denver-Aurora, CO and No. 1690 nationally 
                     by Inc. Magazine. The magazine identified Ducts Unlimited 
                     as one of the fastest-growing companies in the Plumbing Heating 
                     AC industry. After only 6 years in the highly competitive 
@@ -297,27 +241,27 @@ function MM_findObj(n, d) { //v4.01
                 <td>&nbsp;</td>
               </tr>
             </table>
-          <!-- #EndEditable --></td>
-          <td width="20" valign="top" background="images/fill_right.gif"><img name="fill_right" src="images/fill_right.gif" width="39" height="10" border="0"></td>
+          </td>
+          <td></td>
         </tr>
       </table>
     </td>
   </tr>
   <tr> 
-    <td height="60" valign="bottom"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <td> 
+      <table>
         <tr> 
-          <td rowspan="2" valign="bottom" width="150" background="images/fill_left.gif"><img name="bot_corner_left_a" src="images/bot_corner_left_a.gif" width="150" height="49" border="0"></td>
-          <td class="beigetext" align="center" height="60" valign="bottom" rowspan="2" width="60"><img name="bot_corner_left_b" src="images/bot_corner_left_b.gif" width="60" height="26" border="0"></td>
-          <td align="center" height="34"><span class="beigetext"><a href="index.htm" class="beigeLink">Home</a> 
-            | <a href="aboutus.htm" class="beigeLink">About Us</a> | <a href="services.htm" class="beigeLink">Services</a><span class="style4"> 
-            | </span> <a href="fabrication.htm" class="beigelink">Fabrication</a> | <a href="clients.htm" class="beigeLink">Clients </a> |
-            <a href="contactus.htm" class="beigeLink">Contact
-            Us</a></span></td>
-          <td rowspan="2" width="39" valign="bottom" background="images/fill_right.gif"><img name="bot_corner_right" src="images/bot_corner_right.gif" width="39" height="49" border="0"></td>
+          <td></td>
+          <td></td>
+          <td><span> Home 
+          About Us Service <span> 
+             </span> Fabrication  Clients
+           Contact
+            Us </span></td>
+          <td></td>
         </tr>
         <tr> 
-          <td height="26" background="images/fill_bot.gif" class="whitesmall" align="center" width="99%">Copyright 
+          <td>Copyright 
             &copy; 2009 www.ductsunlimitedinc.com -&nbsp;All Rights Reserved.
             <br>
 Website by ECM Solutions, Inc. </td>
@@ -327,4 +271,4 @@ Website by ECM Solutions, Inc. </td>
   </tr>
 </table>
 </body>
-<!-- #EndTemplate --></html>
+</html>
