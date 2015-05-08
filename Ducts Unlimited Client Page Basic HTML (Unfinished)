@@ -531,43 +531,43 @@
                     <td>$38,000</td>
                   </tr>
                   <tr>
-                    <td height="26">Interior Concepts - Denver </td>
+                    <td>Interior Concepts - Denver </td>
                     <td>$24,987</td>
                   </tr>
                   <tr>
-                    <td height="26">Alliance Center - Denver</td>
+                    <td>Alliance Center - Denver</td>
                     <td>$527,076</td>
                   </tr>
                   <tr>
-                    <td height="26">Weatherford Labs Design Build - Golden</td>
+                    <td>Weatherford Labs Design Build - Golden</td>
                     <td>$427,893</td>
                   </tr>
                   <tr>
-                    <td height="26">Kind Love Phase 1- Denver</td>
+                    <td>Kind Love Phase 1- Denver</td>
                     <td>$771,286</td>
                   </tr>
                   <tr>
-                    <td height="26">Denver Pearl Brewery - Denver</td>
+                    <td>Denver Pearl Brewery - Denver</td>
                     <td>$27,355</td>
                   </tr>
                   <tr>
-                    <td height="26">Grimaldi's Pizza - Denver</td>
+                    <td>Grimaldi's Pizza - Denver</td>
                     <td>$87,105</td>
                   </tr>
                   <tr>
-                    <td height="26">Honda Boiler replacement - Denver</td>
+                    <td>Honda Boiler replacement - Denver</td>
                     <td>$62,676</td>
                   </tr>
                   <tr>
-                    <td height="26">Visa - Highlands Ranch </td>
+                    <td>Visa - Highlands Ranch </td>
                     <td>$112,908</td>
                   </tr>
                   <tr>
-                    <td height="26">US Bank Damper replacement-Denver</td>
+                    <td>US Bank Damper replacement-Denver</td>
                     <td>$49,381</td>
                   </tr>
                   <tr>
-                    <td height="26">Dot Hill Server/Lab- Longmont</td>
+                    <td>Dot Hill Server/Lab- Longmont</td>
                     <td>$114,572</td>
                   </tr>
                 </tbody></table>
@@ -579,7 +579,7 @@
               </tr>
               <tr>
                 <td>&nbsp;</td>
-                <td><hr width="75%"></td>
+                <td><hr></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
@@ -598,26 +598,26 @@
             <hr>
             <hr>
           <!-- #EndEditable --></td>
-          <td width="20" valign="top" background="images/fill_right.gif"><img name="fill_right" src="images/fill_right.gif" width="39" height="10" border="0"></td>
+          <td></td>
         </tr>
       </tbody></table>
     </td>
   </tr>
   <tr> 
-    <td height="60" valign="bottom"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <td> 
+      <table>
         <tbody><tr> 
-          <td rowspan="2" valign="bottom" width="150" background="images/fill_left.gif"><img name="bot_corner_left_a" src="images/bot_corner_left_a.gif" width="150" height="49" border="0"></td>
-          <td class="beigetext" align="center" height="60" valign="bottom" rowspan="2" width="60"><img name="bot_corner_left_b" src="images/bot_corner_left_b.gif" width="60" height="26" border="0"></td>
-          <td align="center" height="34"><span class="beigetext"><a href="index.htm" class="beigeLink">Home</a> 
-            | <a href="aboutus.htm" class="beigeLink">About Us</a> | <a href="services.htm" class="beigeLink">Services</a><span class="style4"> 
-            | </span> <a href="fabrication.htm" class="beigelink">Fabrication</a> | <a href="clients.htm" class="beigeLink">Clients </a> |
-            <a href="contactus.htm" class="beigeLink">Contact
+          <td><im></td>
+          <td><img></td>
+          <td>Home</a> 
+            | <a>About Us</a> | <a>Services</a><span> 
+            | </span> <a>Fabrication</a> | <a>Clients </a> |
+            <a>Contact
             Us</a></span></td>
-          <td rowspan="2" width="39" valign="bottom" background="images/fill_right.gif"><img name="bot_corner_right" src="images/bot_corner_right.gif" width="39" height="49" border="0"></td>
+          <td><img></td>
         </tr>
         <tr> 
-          <td height="26" background="images/fill_bot.gif" class="whitesmall" align="center" width="99%">Copyright 
+          <td>Copyright 
             © 2009 www.ductsunlimitedinc.com -&nbsp;All Rights Reserved.
             <br>
 Website by ECM Solutions, Inc. </td>
