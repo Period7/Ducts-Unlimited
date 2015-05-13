@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+        <!-- Basic Page Needs -->
+        <meta charset="utf-8">
+        <title>Bulldog Burritos - The Best Burritos in Town</title>
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <!-- Mobile Specific Metas -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- FONT -->
+        <link href="//fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/skeleton.css">
+        <link rel="stylesheet" href="css/custom.css">
+
+        <!-- Scripts -->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+        <script type="text/javascript">
+
+            /* When the document is ready (fully-loaded) */
+            $(document).ready(function () {
+
+                /* Create empty responsive navigation dropdown */
+                $("<select />").appendTo("#navigation div");
+
+                /* Add default "Go to" item to the responsive navigation dropdown */
+                $("<option />", {
+                    "selected": "selected",
+                    "value": "",
+                    "text": "Go to..."}).appendTo("#navigation div select");
+
+                /* Populate the dropdown using values from the current navigation bar */
+                $("#navigation div ul li a").each(function () {
+                    var el = $(this);
+                    $("<option />", {
+                        "value": el.attr("href"),
+                        "text": el.text()
+                    }).appendTo("#navigation select");
+                });
+
+                /* When dropdown option changes, go to its URL */
+                $("#navigation select").change(function () {
+                    window.location = $(this).find("option:selected").val();
+                });
+
+            });
+
+        </script>  
+
+        <!-- Favicon -->
+        <link rel="icon" type="image/png" href="images/favicon.png">
+
+    </head>
+    <body>
+
+        <!-- Primary Page Layout -->
+
+        <!-- start header -->
+        <div class="band header"> 
+            <div id="header" class="container">
+                <div class="twelve columns">
+                    <h1 class="logo"></h1>
+                </div>
+            </div>
+        </div> 
+        <!-- end header -->
+
+        <!-- start navigation -->
+        <div class="band navigation"> 
+            <div id="navigation" class="container">
+                <div class="twelve columns">
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="page1.html">Page One</a></li>
+                        <li><a href="page2.html">Page Two</a></li>
+                        <li><a href="page3.html">Page Three</a></li>
+                        <li><a href="page4.html">Page Four</a></li>
+                        <li><a href="page5.html">Page Five</a></li>
+                    </ul>    
+                </div>
+            </div>
+        </div> 
+        <!-- end navigation -->
+
+        <!-- start content -->
+        <div id="content" class="container">
+            <div class="eight columns">
+                <h2>Ducts Unlimited Boilerplate</h2>
+                <p>This is the boilerplate for <strong>Ducts Unlimited.</strong>Hopefully this boilerplate is simple enough, yet effective enough, to impress the customer. </p>
+                <p>Feel free to request a change in color scheme, layout size, or anything else. Let me know at 2047011@jeffcoschools.us</p>
+                <p>Maintaining a link to <a href="page2.html" title="Our Menu">Page Two</a></p> 
+                <p>How far behind the other group do <strong><em>you</em></strong> think we are?</p>
+            </div>
+            <div class="four columns">
+                <img src="../images/high-schooler-eating-burritos-1024x683.jpg" alt="Your image here">
+            </div>
+        </div> 
+        <!-- end content -->
+
+        <!-- start footer -->
+        <div class="band footer">
+            <div id="footer" class="container">
+                <div class="twelve columns">
+                    <p><em>HVAC Services</em></p>      
+                </div>
+            </div> 
+        </div>
+        <!-- end footer -->
+
+        <!-- End Document -->
+    </body>
+
+</html>
