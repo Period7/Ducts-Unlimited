@@ -4,7 +4,7 @@
 
         <!-- Basic Page Needs -->
         <meta charset="utf-8">
-        <title>Ducts Unlimited - Page Five</title>
+        <title>Ducts Unlimited - Home Page</title>
         <meta name="description" content="">
         <meta name="author" content="">
 
@@ -78,11 +78,11 @@
                 <div class="twelve columns">
                     <ul>
                         <li><a href="index.html">Home</a></li>
-                        <li><a href="page1.html">Page One</a></li>
-                        <li><a href="page2.html">Page Two</a></li>
-                        <li><a href="page3.html">Page Three</a></li>
-                        <li><a href="page4.html">Page Four</a></li>
-                        <li><a href="page5.html">Page Five</a></li>
+                        <li><a href="page1.html">About Us</a></li>
+                        <li><a href="page2.html">Services</a></li>
+                        <li><a href="page3.html">Fabrication</a></li>
+                        <li><a href="page4.html">Customers</a></li>
+                        <li><a href="page5.html">News</a></li>
                     </ul>    
                 </div>
             </div>
@@ -92,63 +92,24 @@
         <!-- start content -->
         <div id="content" class="container">
             <div class="eight columns">
-                <h3>Mission-style Burritos ($9.99)</h3>
-                <table class="menu-items">
-                    <tbody>
-                        <tr>
-                            <td>The Colestock</td>
-                            <td>Beef, black beans, rice, cheese, sour cream, and green chili</td>
-                        </tr>
-                        <tr>
-                            <td>The Wifey</td>
-                            <td>Grilled chicken, rice, fajita veggies, and green chili</td>
-                        </tr>
-                        <tr>
-                            <td>The Dozer</td>
-                            <td>Carnitas, brown rice, pico de gallo, and cheese</td>
-                        </tr>
-                        <tr>
-                            <td>The Norton</td>
-                            <td>Steak, pinto beans, sour cream, cheese, and green chili</td>
-                        </tr>
-                    </tbody>
-                </table>
-                <h3>Tacos ($7.99)</h3>
-                <table class="menu-items">
-                    <tbody>
-                        <tr>
-                            <td>Chicken</td>
-                            <td>3 grilled chicken tacos served with all the fixins</td>
-                        </tr>
-                        <tr>
-                            <td>Steak</td>
-                            <td>3 Angus steak tacos served with all the fixins</td>
-                        </tr>
-                        <tr>
-                            <td>Fish</td>
-                            <td>3 fish tacos made from premium Atlantic cod fillets deep-fried to a golden brown and served with all the fixins</td></tr>
-                        <tr>
-                            <td>Beef</td>
-                            <td>3 shredded beef tacos served with all the fixins</td>
-                        </tr>
-                    </tbody>
-                </table>
+                <h2>Ducts Unlimited Boilerplate</h2>
+                <p>This is the boilerplate for <strong>Ducts Unlimited.</strong>Hopefully this boilerplate is simple enough, yet effective enough, to impress the customer. </p>
+                <p>Feel free to request a change in color scheme, layout size, or anything else. Let us know at 2047011@jeffcoschools.us or 2002388@jeffcoschools.us</p>
+                <p>Maintaining a link to <a href="page2.html" title="Our Menu">Page Two</a></p> 
+                <p>How far behind the other group do <strong><em>you</em></strong> think we are?</p>
             </div>
-            <div class="four columns">
-                <h3>Drinks ($1.99)</h3>
-                <ul class="indented">
-                    <li>Coke</li>
-                    <li>Diet Coke</li>
-                    <li>Coke Zero</li>
-                    <li>Sprite</li>
-                    <li>Mr. Pibb</li>
-                    <li>Barqs Root Beer</li>
-                    <li>Fanta</li>
-                    <li>Dasani Water (Bottle)</li>
-                </ul>
+            <div class="four columns">  
+                
             </div>
-        </div> 
-        <!-- end content -->
+            
+            <div style="text-align: center; ">Serving the Front Range since 2000</div>
+        </div>  
+        
+        
+        
+        
+       
+            <!-- end content -->
 
         <!-- start footer -->
         <div class="band footer">
