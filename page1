@@ -78,11 +78,11 @@
                 <div class="twelve columns">
                     <ul>
                         <li><a href="index.html">Home</a></li>
-                        <li><a href="page1.html">Page One</a></li>
-                        <li><a href="page2.html">Page Two</a></li>
-                        <li><a href="page3.html">Page Three</a></li>
-                        <li><a href="page4.html">Page Four</a></li>
-                        <li><a href="page5.html">Page Five</a></li>
+                        <li><a href="page1.html">About Us</a></li>
+                        <li><a href="page2.html">Services</a></li>
+                        <li><a href="page3.html">Fabrication</a></li>
+                        <li><a href="page4.html">Customers</a></li>
+                        <li><a href="page5.html"></a></li>
                     </ul>    
                 </div>
             </div>
@@ -97,7 +97,7 @@
             </div>
         </div> 
         <!-- end content -->
-
+        
         <!-- start footer -->
         <div class="band footer">
             <div id="footer" class="container">
